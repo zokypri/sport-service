@@ -1,0 +1,9 @@
+server:
+  servlet:
+    contextPath: /sport-service
+  port: 8081
+
+integration:
+  muay-thai-service:
+    url: http://muay-thai-service:8088/muay-thai-service/v1/fighters
+

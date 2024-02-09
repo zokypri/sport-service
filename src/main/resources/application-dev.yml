@@ -1,0 +1,9 @@
+
+
+integration:
+  muay-thai-service:
+    url: http://localhost:8088/muay-thai-service/v1/fighters
+
+
+
+
